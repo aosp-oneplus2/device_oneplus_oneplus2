@@ -447,7 +447,7 @@ policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
 
 <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
 autodetected from the Configuration. -->
-<bool name="config_showNavigationBar">true</bool>
+<bool name="config_showNavigationBar">false</bool>
 
 <!-- Keycodes of gestures. If the gesture is not supported set it to 0.
    <integer name="config_doubleTapKeyCode">183</integer>
