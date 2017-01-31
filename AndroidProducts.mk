@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_oneplus2.mk
+    $(LOCAL_DIR)/carbon_oneplus2.mk
