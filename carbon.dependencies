@@ -3,7 +3,7 @@
    "remote"     : "github",
    "repository" : "device_oppo_common",
    "target_path": "device/oppo/common",
-   "revision"   : "n-mr1"
+   "revision"   : "carbon"
  },
  {
    "remote"     : "github",
