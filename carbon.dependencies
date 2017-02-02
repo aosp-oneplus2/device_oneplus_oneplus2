@@ -1,7 +1,7 @@
 [
  {
    "remote"     : "github",
-   "repository" : "device_oppo_common",
+   "repository" : "aosp-oneplus2/device_oppo_common",
    "target_path": "device/oppo/common",
    "revision"   : "carbon"
  },
@@ -13,7 +13,7 @@
  },
  {
    "remote"     : "github",
-   "repository" : "android_hardware_cyanogen",
+   "repository" : "LineageOS/android_hardware_cyanogen",
    "target_path": "hardware/cyanogen",
    "revision"   : "cm-14.1"
  },
@@ -25,7 +25,7 @@
  },
  {
    "remote"     : "github",
-   "repository" : "android_packages_resources_devicesettings",
+   "repository" : "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "revision"   : "cm-14.1"
  },
