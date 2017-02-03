@@ -21,6 +21,7 @@ $(call inherit-product, device/oneplus/oneplus2/device.mk)
 
 # Inherit some common carbon stuff.
 $(call inherit-product, vendor/carbon/Android.mk)
+$(call inherit-product, vendor/carbon/config/common.mk)
 
 PRODUCT_NAME := carbon_oneplus2
 PRODUCT_DEVICE := oneplus2
