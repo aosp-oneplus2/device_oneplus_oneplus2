@@ -1,24 +1,24 @@
 [
  {
-   "remote"     : "github",
+   "remote"     : "gh",
    "repository" : "zanezam/boeffla-kernel-cm-oneplus2",
    "target_path": "kernel/oneplus/msm8994",
    "revision"   : "boeffla_cm14_aa64u494"
  },
  {
-   "remote"     : "github",
+   "remote"     : "gh",
    "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
    "revision"   : "cm-14.1"
  },
  {
-   "remote"     : "github",
+   "remote"     : "gh",
    "repository" : "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "revision"   : "cm-14.1"
  },
  {
-   "remote"     : "github",
+   "remote"     : "gh",
    "repository" : "TheMuppets/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "revision"   : "cm-14.1"
