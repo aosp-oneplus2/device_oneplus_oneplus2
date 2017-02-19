@@ -439,7 +439,7 @@ policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
 <add-resource name="config_longPressOnHardwareHomeBehavior" type="integer"/>
 <integer name="config_longPressOnHardwareHomeBehavior">3</integer>
 
-<!-- Whether to intercept inputs on screen off. -->
+<!-- Whether to intercept inputs on screen off.--> 
 <bool name="config_enableKeyHandler">true</bool>
 
 <!-- Whether device has physical tri state switch -->

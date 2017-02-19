@@ -105,7 +105,6 @@ PRODUCT_PACKAGES += \
     libshim_camera \
     libshim_ims-camera \
     sensors.hal.tof \
-    SnapdragonCamera
 
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
