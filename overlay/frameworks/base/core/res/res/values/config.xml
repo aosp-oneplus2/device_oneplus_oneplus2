@@ -399,6 +399,7 @@ so that applications can still use their own mechanisms. -->
 </string-array>
 
 <!-- Whether to intercept inputs on screen off.--> 
+<add-resource name="config_enableKeyHandler" type="bool" />
 <bool name="config_enableKeyHandler">true</bool>
 
 <!-- Whether device has physical tri state switch -->
