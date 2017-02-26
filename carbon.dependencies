@@ -1,9 +1,9 @@
 [
  {
-   "remote"     : "lineage",
-   "repository" : "LineageOS/android_kernel_oneplus_msm8994",
+   "remote"     : "gh",
+   "repository" : "gtpitch/android_kernel_oneplus_msm8994",
    "target_path": "kernel/oneplus/msm8994",
-   "revision"   : "cm-14.1"
+   "revision"   : "carbon"
  },
  {
    "remote"     : "gh",
